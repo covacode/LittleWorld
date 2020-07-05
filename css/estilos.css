@@ -34,3 +34,15 @@
   font-size: 2.3em;
   vertical-align: middle;
 }
+
+.bg-welcome {
+    background-image: url(../images/daycare/9.jpeg);
+    -moz-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background-attachment: fixed;
+}
